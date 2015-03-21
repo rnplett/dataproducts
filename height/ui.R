@@ -39,7 +39,7 @@ shinyUI(fluidPage(
                                          ),
                                 tabPanel("Help Info", 
                                          h4("Reference Documentation:"),
-                                         a("Help Document", href="http://rnplett.github.io/appInstructions.html"),
+                                         a("Help Document", href="https://rnplett.github.io/appInstructions.html"),
                                          h4("Background Information:"),
                                          a("Algorythm Description", href="http://rpubs.com/rnplett/height")
                                 )
